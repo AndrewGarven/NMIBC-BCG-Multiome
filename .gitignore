@@ -1,0 +1,39 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio
+*.Rproj.user
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large analysis objects
+*.rds
+*.RDS
+*.h5ad
+*.h5mu
+*.h5
+*.loom
+*.qs
+
+# Raw / processed data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+~$*
