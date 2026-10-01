@@ -1,0 +1,17 @@
+patient_id,sex,age_at_consent,tumor_stage,tumor_grade,aua_risk,outcome_raw,analysis_outcome
+P76,Male,84,T1,High Grade,3,remission,recurrence_free
+P80,Male,70,Ta,High Grade,3,recurrence,early_recurrence
+P54,Male,70,Ta,High Grade,2,remission,recurrence_free
+P43,Male,80,T1,High Grade,3,recurrence,early_recurrence
+P87,Male,75,T1,High Grade w Cis,3,remission,recurrence_free
+P29,Male,69,Ta,High Grade,3,recurrence,early_recurrence
+P46,Male,84,Ta,High Grade w Cis,3,remission,recurrence_free
+P41,Female,86,Ta,High Grade,3,recurrence,early_recurrence
+P51,Female,78,Ta,Low Grade,2,remission,recurrence_free
+P112,Female,80,Ta,Low Grade,2,recurrence,early_recurrence
+P99,Male,52,Ta,High Grade w Cis,3,remission,recurrence_free
+P103,Male,81,Ta,Low Grade,2,recurrence,early_recurrence
+P97,Female,61,Ta,Low Grade,2,remission,recurrence_free
+P42,Male,71,Ta,High Grade,2,recurrence,early_recurrence
+P104,Male,84,Ta,High Grade,3,remission,recurrence_free
+P22,Male,55,Ta,Low Grade,2,recurrence,early_recurrence
