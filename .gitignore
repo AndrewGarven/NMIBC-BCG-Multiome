@@ -37,3 +37,9 @@ data/processed/*
 *.tmp
 *.temp
 ~$*
+# Generated analysis outputs
+results/
+Rplots.pdf
+
+# Backup files
+*.bak
